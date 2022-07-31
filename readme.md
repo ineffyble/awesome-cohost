@@ -1,10 +1,9 @@
+<!--lint disable awesome-git-repo-age-->
 <div align="center">
 
 <!-- title -->
 
-<!--lint ignore no-dead-urls-->
-
-# awesome-cohost [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/ineffyble/awesome-cohost/actions/workflows/lint.yaml/badge.svg)](https://github.com/ineffyble/awesome-cohost/actions/workflows/lint.yaml)
+# Awesome Cohost [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/ineffyble/awesome-cohost/actions/workflows/lint.yaml/badge.svg)](https://github.com/ineffyble/awesome-cohost/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -12,9 +11,7 @@ An awesome list of things related to [cohost!](https://cohost.org)
 
 <!-- image -->
 
-<a href="https://cohost.org/rc/welcome" target="_blank" rel="noopener noreferrer">
-  <img src="eggbug.svg" height="200" />
-</a>
+<img src="eggbug.svg" height="200" />
 
 <!-- description -->
 
