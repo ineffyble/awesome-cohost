@@ -12,7 +12,7 @@ An awesome list of things related to [cohost!](https://cohost.org)
 
 <!-- image -->
 
-<a href="https://cohost.org" target="_blank" rel="noopener noreferrer">
+<a href="https://cohost.org/rc/welcome" target="_blank" rel="noopener noreferrer">
   <img src="eggbug.svg" height="200" />
 </a>
 
