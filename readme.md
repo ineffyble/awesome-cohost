@@ -23,10 +23,14 @@ An awesome list of things related to cohost.
 
 ## Contents
 
+- [Bots](#bots)
 - [CSS Generators](#css-generators)
 - [Follow](#follow)
 
 <!-- CONTENT -->
+
+## Bots
+- [@coloroftheday](https://cohost.org/coloroftheday) - Bot that posts a new colour every day.
 
 ## CSS Generators
 
