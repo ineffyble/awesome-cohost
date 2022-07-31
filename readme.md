@@ -7,7 +7,7 @@
 
 <!-- subtitle -->
 
-An awesome list of things related to [cohost!](https://cohost.org)
+An awesome list of things related to cohost.
 
 <!-- image -->
 
