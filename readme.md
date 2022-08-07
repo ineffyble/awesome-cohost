@@ -24,7 +24,7 @@ An awesome list of things related to cohost.
 ## Contents
 
 - [Bots](#bots)
-- [CSS Generators](#css-generators)
+- [Post Generators](#post-generators)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -32,9 +32,10 @@ An awesome list of things related to cohost.
 ## Bots
 - [@coloroftheday](https://cohost.org/coloroftheday) - Bot that posts a new colour every day.
 
-## CSS Generators
+## Post Generators
 
 - [Backloggd formatter](https://nex3.github.io/cohost-backloggd/) - Create pretty cohost posts of [backloggd](https://www.backloggd.com/) reviews.
+- [Cohoard](https://a2aaron.github.io/Cohoard/) - Format chatlogs for Cohost.
 
 <!-- END CONTENT -->
 
