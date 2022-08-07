@@ -24,6 +24,7 @@ An awesome list of things related to cohost.
 ## Contents
 
 - [Bots](#bots)
+- [Clients](#clients)
 - [Post Generators](#post-generators)
 - [Follow](#follow)
 
@@ -32,6 +33,9 @@ An awesome list of things related to cohost.
 ## Bots
 - [@coloroftheday](https://cohost.org/coloroftheday) - Bot that posts a new colour every day.
 - [@verge-ebooks](https://cohost.org/verge-ebooks) - Tech news from a parallel universe.
+
+## Clients
+- [Skeuohost](https://userstyles.world/style/5982/skeuohost) - Userstyle for Cohost.
 
 ## Post Generators
 
