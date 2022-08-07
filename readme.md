@@ -31,6 +31,7 @@ An awesome list of things related to cohost.
 
 ## Bots
 - [@coloroftheday](https://cohost.org/coloroftheday) - Bot that posts a new colour every day.
+- [@verge-ebooks](https://cohost.org/verge-ebooks) - Tech news from a parallel universe.
 
 ## Post Generators
 
