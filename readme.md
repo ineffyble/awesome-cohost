@@ -41,6 +41,8 @@ An awesome list of things related to cohost.
 
 - [Backloggd formatter](https://nex3.github.io/cohost-backloggd/) - Create pretty cohost posts of [backloggd](https://www.backloggd.com/) reviews.
 - [Cohoard](https://a2aaron.github.io/Cohoard/) - Format chatlogs for Cohost.
+- [prechoster](https://cloudwithlightning.net/random/chostin/prechoster/) - A graph-based HTML generator to make fancy chosting easier.
+- [markdown PLUS](https://oat.zone/markdown-plus/) - An "alternative" to markdown for cohost which lets you use fucked-up text in your everyday posts.
 
 <!-- END CONTENT -->
 
