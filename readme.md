@@ -46,6 +46,7 @@ An awesome list of things related to cohost.
 - [Mutant Standard emoji](https://mutant.us.to/) - Use the Mutant Standard emoji set on Cohost.
 - [view source userscript](https://cohost.org/amgg/post/72548-view-source-userscri) - A userscript that adds a "view source" button to posts.
 - [Notification Popover userscript](https://cohost.org/blep/post/51879-waht-if-notification) - Adds a lil notification popover.
+- [Timeline Deduplicator](https://github.com/nex3/cohost-dedup/blob/main/cohost-dedup.user.js) - Deduplicate posts you've already seen on Cohost.
 
 ## Post Generators
 
