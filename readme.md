@@ -27,6 +27,7 @@ An awesome list of things related to cohost.
 - [Client customisation](#client-customisation)
 - [Post Generators](#post-generators)
 - [API Libraries](#api-libraries)
+- [Automation & Tools](#automation-tools)
 - [Tutorials & Guides](#tutorials-guides)
 - [Follow](#follow)
 
@@ -36,7 +37,7 @@ An awesome list of things related to cohost.
 - [@coloroftheday](https://cohost.org/coloroftheday) - Bot that posts a new colour every day.
 - [@verge-ebooks](https://cohost.org/verge-ebooks) - Tech news from a parallel universe.
 - [@gamemagprintads](https://cohost.org/gamemagprintads) - Game history, one ad at a time.
-- [@randochrontendo](https://cohost.org/randochrontendo] - A random screenshot from the chronogaming project Chrontendo every 30 minutes.
+- [@randochrontendo](https://cohost.org/randochrontendo) - A random screenshot from the chronogaming project Chrontendo every 30 minutes.
 
 ## Client customisation
 - [Skeuohost](https://userstyles.world/style/5982/skeuohost) - Userstyle for Cohost.
@@ -52,7 +53,7 @@ An awesome list of things related to cohost.
 - [Cohoard](https://a2aaron.github.io/Cohoard/) - Format chatlogs for Cohost.
 - [prechoster](https://cloudwithlightning.net/random/chostin/prechoster/) - A graph-based HTML generator to make fancy chosting easier.
 - [markdown PLUS](https://oat.zone/markdown-plus/) - An "alternative" to markdown for cohost which lets you use fucked-up text in your everyday posts.
-- [choll](https://choll.clown.dev/) - cholls are polls for your chosts.
+- [choll](https://choll.clown.dev/) - Cholls are polls for your chosts.
 - [bugpoll](https://a.ktrv.dev/) - Polls directly on Cohost.
 
 ## API Libraries
