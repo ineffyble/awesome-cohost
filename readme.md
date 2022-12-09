@@ -47,6 +47,8 @@ An awesome list of things related to cohost.
 - [view source userscript](https://cohost.org/amgg/post/72548-view-source-userscri) - A userscript that adds a "view source" button to posts.
 - [Notification Popover userscript](https://cohost.org/blep/post/51879-waht-if-notification) - Adds a lil notification popover.
 - [Timeline Deduplicator](https://github.com/nex3/cohost-dedup/blob/main/cohost-dedup.user.js) - Deduplicate posts you've already seen on Cohost.
+- [Cohost97 userstyle](https://cohost.org/hellgnoll/post/52606-cohost97-beta-v0-9) - Styles cohost like the classic Microsoft operating system Windows 9(5?)(8?).
+- [Compact comments userstyle](https://userstyles.world/style/7582/compact-comments) - Use small avatars and more compact spacing for comments in wide view.
 
 ## Post Generators
 
@@ -56,6 +58,9 @@ An awesome list of things related to cohost.
 - [markdown PLUS](https://oat.zone/markdown-plus/) - An "alternative" to markdown for cohost which lets you use fucked-up text in your everyday posts.
 - [choll](https://choll.clown.dev/) - Cholls are polls for your chosts.
 - [bugpoll](https://a.ktrv.dev/) - Polls directly on Cohost.
+- [Letterboxd generator](https://nex3.github.io/cohost-letterboxd/) - Create pretty cohost posts of [Letterboxd](https://letterboxd.com/) reviews.
+- [Image grid generator](https://nex3.github.io/cohost-image-grid/) - Create image grids for your cohost posts.
+- [Syntax highlighter](https://nex3.github.io/cohost-highlight/) - Create posts with source code syntax highlighting.
 
 ## API Libraries
 - [eggbug-rs](https://github.com/iliana/eggbug-rs) - A bot library for Cohost, providing an interface to create, read, edit, and delete posts.
