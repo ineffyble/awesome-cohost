@@ -26,6 +26,7 @@ An awesome list of things related to cohost.
 - [Bots](#bots)
 - [Clients](#clients)
 - [Post Generators](#post-generators)
+- [API Libraries](#api-libraries)
 - [Follow](#follow)
 
 <!-- CONTENT -->
