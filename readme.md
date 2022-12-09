@@ -27,8 +27,8 @@ An awesome list of things related to cohost.
 - [Client customisation](#client-customisation)
 - [Post Generators](#post-generators)
 - [API Libraries](#api-libraries)
-- [Automation & Tools](#automation-tools)
-- [Tutorials & Guides](#tutorials-guides)
+- [Automation & Tools](#automation--tools)
+- [Tutorials & Guides](#tutorials--guides)
 - [Follow](#follow)
 
 <!-- CONTENT -->
