@@ -44,6 +44,11 @@ An awesome list of things related to cohost.
 - [prechoster](https://cloudwithlightning.net/random/chostin/prechoster/) - A graph-based HTML generator to make fancy chosting easier.
 - [markdown PLUS](https://oat.zone/markdown-plus/) - An "alternative" to markdown for cohost which lets you use fucked-up text in your everyday posts.
 
+## API Libraries
+- [eggbug-rs](https://github.com/iliana/eggbug-rs) - A bot library for Cohost, providing an interface to create, read, edit, and delete posts.
+- [libcohost](https://github.com/JaycieErysdren/libcohost) - A C / C++ library for interacting with Cohost.
+- [cohost.js](https://github.com/mogery/cohost.js) - Unofficial API for Cohost.
+
 <!-- END CONTENT -->
 
 ## Follow
