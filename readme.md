@@ -60,6 +60,7 @@ An awesome list of things related to cohost.
 - [eggbug-rs](https://github.com/iliana/eggbug-rs) - A bot library for Cohost, providing an interface to create, read, edit, and delete posts.
 - [libcohost](https://github.com/JaycieErysdren/libcohost) - A C / C++ library for interacting with Cohost.
 - [cohost.js](https://github.com/mogery/cohost.js) - Unofficial API for Cohost.
+- [cohost.py](https://github.com/valknight/cohost.py) - A python library for Cohost.
 
 ## Automation & Tools
 - [Twitter Crossposter](https://cohost.org/lexi/post/157283-okay-so-if-you-want) - Tweet your new Cohost posts.
