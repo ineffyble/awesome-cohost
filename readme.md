@@ -29,6 +29,7 @@ An awesome list of things related to cohost.
 - [API Libraries](#api-libraries)
 - [Automation & Tools](#automation--tools)
 - [Tutorials & Guides](#tutorials--guides)
+- [CSS Crimes & Similar](#css-crimes--similar)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -79,6 +80,11 @@ An awesome list of things related to cohost.
 - [Code syntax highlighting](https://cohost.org/lexi/post/54367-cohost-does-not-have) - Simple code syntax highlighting.
 - [css for css baby 1: stupid text tricks](https://cohost.org/lexyeevee/post/495441-css-for-css-baby-1) - So You Want To Know CSS.
 - [css for css baby 2: boxes and blocks and stuff](https://cohost.org/lexyeevee/post/507300-css-for-css-baby-2) - Part two of the series.
+
+## CSS Crimes & Similar
+- [rope machine](https://cohost.org/blackle/post/42994-div-style-pointer) - Interactable rope machine.
+- [puzzle box](https://cohost.org/blackle/post/260204-div-style-width-60) - Interactable puzzle box.
+- [GIF Plays GBC](https://cohost.org/hell-labs/post/69069-gif-plays-gbc) - Shared Game Boy Color gameplay in a post.
 
 <!-- END CONTENT -->
 
