@@ -63,6 +63,7 @@ An awesome list of things related to cohost.
 - [Image grid generator](https://nex3.github.io/cohost-image-grid/) - Create image grids for your cohost posts.
 - [Syntax highlighter](https://nex3.github.io/cohost-highlight/) - Create posts with source code syntax highlighting.
 - [Codehost](https://codehost.wavebeem.com/) - Generate syntax highlighted code blocks for cohost.
+- [Inline details generator](https://yal.cc/tools/cohost/inline-details-generator/) - Generate inline disclosure elements that can be clicked to reveal extra content.
 
 ## API Libraries
 - [eggbug-rs](https://github.com/iliana/eggbug-rs) - A bot library for Cohost, providing an interface to create, read, edit, and delete posts.
