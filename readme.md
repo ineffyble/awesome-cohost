@@ -72,6 +72,7 @@ An awesome list of things related to cohost.
 
 ## Automation & Tools
 - [Twitter Crossposter](https://cohost.org/lexi/post/157283-okay-so-if-you-want) - Tweet your new Cohost posts.
+- [screencap bot](https://git.xeno.science/xenofem/screencap-bot/) - A configurable bot for posting randomly-chosen screenshots and/or audio clips from a collection of TV series/movies/podcasts/etc, as used by [@gundam-screencaps](https://cohost.org/gundam-screencaps) and [@fatt-excerpts](https://cohost.org/fatt-excerpts).
 
 ## Tutorials & Guides
 - [Escape characters](https://cohost.org/lexi/post/386344-cohost-tip-you-can) - How to post angle brackets and other special characters with escaping.
